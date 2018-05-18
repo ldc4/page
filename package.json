@@ -1,0 +1,22 @@
+{
+  "name": "ldc4-github-pages",
+  "version": "1.0.0",
+  "description": "release github pages",
+  "main": "release.js",
+  "scripts": {
+    "release": "node ./release.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldc4/page.git"
+  },
+  "keywords": [
+    "release"
+  ],
+  "author": "weedustzhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldc4/page/issues"
+  },
+  "homepage": "https://github.com/ldc4/page#readme"
+}
